@@ -1,4 +1,7 @@
-# Office IQ 🏢 💼 
+
+# Office IQ
+
+<img src="https://github.com/user-attachments/assets/574472c7-b59f-4e7b-b300-c734d56e32a8" alt="the-office-logo -dark 1" width="200"/>
 
 Welcome to **Office IQ** — a fun and interactive way to test your knowledge of *The Office*! Built as a personal project to dive into SwiftUI, this app lets you relive some of the funniest moments from the show while challenging your memory with a series of trivia questions. Can you get all the answers right? Let's find out! 🙌
 
