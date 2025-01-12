@@ -4,7 +4,6 @@
 //
 //  Created by Stacy Griffy on 9/27/24.
 //
-
 import SwiftUI
 
 struct GameColor {
